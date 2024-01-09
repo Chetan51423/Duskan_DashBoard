@@ -1,0 +1,27 @@
+{
+  "name": "dukandashboard",
+  "version": "1.0.0",
+  "description": "this is dashboard for dukan ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan51423/Duskan_DashBoard.git"
+  },
+  "author": "Chetan Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan51423/Duskan_DashBoard/issues"
+  },
+  "homepage": "https://github.com/Chetan51423/Duskan_DashBoard#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
